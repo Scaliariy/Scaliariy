@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Scaliariy
-- 👀 I’m interested in Anime
+- 👀 I’m interested in Programing 
 - 🌱 I’m currently learning Java,SQL,C,PHP
 - 💞️ I’m looking to collaborate on Microsoft and Google
 - 📫 How to reach me scaliariy1@gmail.com
